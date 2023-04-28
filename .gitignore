@@ -136,3 +136,29 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+.anaconda-venv/Scripts/activate
+.anaconda-venv/Scripts/activate.bat
+.anaconda-venv/Scripts/Activate.ps1
+.anaconda-venv/Scripts/deactivate.bat
+.anaconda-venv/Scripts/easy_install-3.8.exe
+.anaconda-venv/Scripts/easy_install.exe
+.anaconda-venv/Scripts/epylint.exe
+.anaconda-venv/Scripts/f2py.exe
+.anaconda-venv/Scripts/isort.exe
+.anaconda-venv/Scripts/pip.exe
+.anaconda-venv/Scripts/pip3.8.exe
+.anaconda-venv/Scripts/pip3.10.exe
+.anaconda-venv/Scripts/pip3.exe
+.anaconda-venv/Scripts/py.test.exe
+.anaconda-venv/Scripts/pylint.exe
+.anaconda-venv/Scripts/pyreverse.exe
+.anaconda-venv/Scripts/pytest.exe
+.anaconda-venv/Scripts/python.exe
+.anaconda-venv/Scripts/pythonw.exe
+.anaconda-venv/Scripts/symilar.exe
+.anaconda-venv/Scripts/wheel.exe
+.anaconda-venv/pyvenv.cfg
+.vscode/settings.json
+
+# ouput figures
+*.png
